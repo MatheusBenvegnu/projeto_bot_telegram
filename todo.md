@@ -17,19 +17,10 @@
     - [X] Implementar handler para opção "Sobre a empresa".
     - [X] Implementar handler para opção "Nossos serviços".
         - [X] Implementar sub-menu de serviços.
-        - [X] Implementar lógica para sugerir reunião e mostrar horários (definir como obter/gerenciar horários).
+        - [X] Implementar lógica para sugerir reunião e mostrar horários.
     - [X] Implementar handler para opção "Dar um feedback".
 
-- [ ] **Passo 4: Validar Funcionamento do Aplicativo (Pendente - Requer Token)**
+- [ ] **Passo 4: Validar Funcionamento do Aplicativo**
     - [ ] Testar cada funcionalidade do bot no Telegram.
     - [ ] Verificar fluxo de conversa e mensagens.
     - [ ] Corrigir bugs e ajustar conforme necessário.
-
-- [X] **Passo 5: Criar Documentação e Instruções de Uso**
-    - [X] Escrever `README.md` com instruções de configuração (obtenção do token, instalação de dependências) e execução (como rodar no Windows).
-    - [X] Documentar o código (comentários).
-
-- [ ] **Passo 6: Reportar e Enviar Aplicativo ao Usuário**
-    - [ ] Compactar o código-fonte e a documentação em um arquivo zip.
-    - [ ] Enviar o arquivo zip para o usuário via mensagem.
-    - [ ] Explicar como usar o bot.
